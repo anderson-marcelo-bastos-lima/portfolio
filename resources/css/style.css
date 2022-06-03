@@ -1,0 +1,9 @@
+/* Create a space between the top and bottom cards. */
+.col-md-4 {
+  margin-top: 27px;
+}
+
+/* Make the hero section full screen. */
+#hero-section {
+  height: 100vh;
+}
