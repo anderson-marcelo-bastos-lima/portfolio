@@ -90,6 +90,7 @@ The project is a portfolio site with the following sections:
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [Bootstrap](https://getbootstrap.com)
+* [Font Awesome](https://fontawesome.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,7 +199,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [GitHub](https://github.com/)
 * [GitHub Pages](https://pages.github.com/)
 * [Bootstrap](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Inkscape](https://inkscape.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
