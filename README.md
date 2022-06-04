@@ -74,11 +74,10 @@ The practical process of coming up with a website idea, designing the wireframe,
 The exercise was carried out with a reduced amount of time to go through viewing, designing and building a website. Aesthetic aspects were not taken into account.
 
 The project is a portfolio site with the following sections:
-
-Top menu.
-Hero.
-Portfolio.
-Footer.
+1. Top menu.
+2. Hero.
+3. Portfolio.
+4. Footer.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
