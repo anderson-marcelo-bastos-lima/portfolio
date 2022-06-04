@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://anderson-marcelo-bastos-lima.github.io/portfolio/">
-    <img src="./docs/logo.jpg" alt="Logo">
+    <img src="./resources/docs/logo.jpg" alt="Logo">
   </a>
 
   <h3 align="center"> Gryffindors Portfolio</h3>
